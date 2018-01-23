@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\tic_tac\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "F:\\tic_tac\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\tic_tac\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "F:\\tic_tac\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]
